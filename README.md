@@ -9,7 +9,7 @@ Abstract: *A video analysis tool for inspecting frame consistency through a sequ
 
 ### Packages
 
-`os``numpy` `opencv` `scipy`
+`os` `numpy` `opencv` `scipy`
 
 ### Requirements
 
